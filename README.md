@@ -27,10 +27,11 @@ racer は rustc のバージョンが defalut ではエラーとなり導入で�
 rustup install nightly
 rustup default nightly
 cargo install racer
+rustup default stable
 rustup component add rust-src
 ```
 
-nightly でなく、 beta? などでも OK かもしれないが未確認。
+nightly でなく、 beta では NG であった。 @2018-09-12
 
 ### 参考とした URL
 
