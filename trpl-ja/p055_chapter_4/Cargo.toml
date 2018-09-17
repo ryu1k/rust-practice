@@ -1,0 +1,6 @@
+[package]
+name = "p055_chapter_4"
+version = "0.1.0"
+authors = ["ryu1k <ryu1kkb@gmail.com>"]
+
+[dependencies]

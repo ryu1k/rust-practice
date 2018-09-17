@@ -14,3 +14,4 @@ Cargo.lock
 trpl-ja/p022_hello_world/hello_world/main
 trpl-ja/p025_cargo/hello_world/target/
 trpl-ja/p031_guessing_game/target/
+trpl-ja/p055_chapter_4/target/
